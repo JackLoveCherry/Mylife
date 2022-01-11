@@ -8,3 +8,4 @@
 1. Have a good sleep habit
 2. Have a good seating habit
 3. Do more exercises
+4. More time to study technology
