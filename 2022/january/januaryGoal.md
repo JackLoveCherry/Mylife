@@ -1,4 +1,4 @@
 ### goal
-1. konw base of deeplearning  
+1. learn how to use ai to solve problem 
 2. learn python java
 3. acwing coding
